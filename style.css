@@ -2,12 +2,8 @@ body {
   background-color: rgb(253, 251, 251);
 }
 
-#header {
-  top: 0px;
-}
-
-#titulo {
-  top: 0px;
+#hearder {
+  margin-top: 0px;
 }
 
 
