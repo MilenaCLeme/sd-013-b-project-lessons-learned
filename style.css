@@ -6,9 +6,15 @@ body {
 table {
   color: rgb(59, 12, 59);
   font-size: small;
+  margin: 5px;
+  padding: auto;
+  border-style: solid;
+  border-width: 5px;
 }
 
 h1 {
   line-height: initial;
+  border: rgb(19, 4, 4);
+  padding: auto;
 }
 
