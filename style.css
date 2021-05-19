@@ -1,11 +1,14 @@
 body {
   background-color: rgb(253, 251, 251);
   font-family: sans-serif;
+  margin: 0px;
 }
 
 #cabecalho {
-  margin-top: 0px;
-}   
+  border: 0px;
+  margin: 0px;
+  position: fixed;
+}
 
 table {
   color: rgb(59, 12, 59);
@@ -20,5 +23,19 @@ h1 {
   line-height: initial;
   border: rgb(19, 4, 4);
   padding: auto;
+}
+
+article {
+  display: inline-block;
+  width: 40%;
+  height: 20px;
+}
+
+section {
+  text-align: left;
+}
+
+aside {
+  text-align: right;
 }
 
