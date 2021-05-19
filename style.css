@@ -1,4 +1,15 @@
 body {
   background-color: rgb(253, 251, 251);
+  font-family: sans-serif;
 }
+
+table {
+  color: rgb(59, 12, 59);  
+  font-size: small;
+}
+
+h1 {
+    line-height: initial;
+}
+
 
