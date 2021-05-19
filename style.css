@@ -3,6 +3,10 @@ body {
   font-family: sans-serif;
 }
 
+#cabecalho {
+  margin-top: 0px;
+}   
+
 table {
   color: rgb(59, 12, 59);
   font-size: small;
