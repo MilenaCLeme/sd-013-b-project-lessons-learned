@@ -1,13 +1,16 @@
 body {
   background-color: rgb(253, 251, 251);
   font-family: sans-serif;
-  margin-top: 0px;
 }
 
 #cabecalho {
   position: fixed;
+  margin-top: 0px;
 }
 
+img {
+  margin-top: 100px;
+}
 table {
   color: rgb(59, 12, 59);
   font-size: small;
