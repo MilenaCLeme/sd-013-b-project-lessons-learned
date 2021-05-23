@@ -28,21 +28,17 @@ h1 {
   padding: auto;
 }
 
-article {
-  display: inline-block;
+.lado-esquerdo {
   width: 40%;
   height: 20px;
-}
-
-section {
+  display: inline-block;
   text-align: left;
 }
 
-aside {
-  text-align: right;
+.lado-direito {
   display: inline-block;
+  text-align: right;
   position: absolute;
-  width: 40%;
 }
 
 footer {
