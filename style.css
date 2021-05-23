@@ -12,6 +12,7 @@ body {
 img {
   margin-top: 100px;
 }
+
 table {
   color: rgb(59, 12, 59);
   font-size: small;
@@ -39,5 +40,12 @@ section {
 
 aside {
   text-align: right;
+  display: inline-block;
+  position: absolute;
+  width: 40%;
+}
+
+footer {
+  padding: 20px;
 }
 
