@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(253, 251, 251);
+  font-family: sans-serif;
+  margin: 0;
+}
+
+#cabecalho {
+  position: fixed;
+  margin-top: 0;
+}
+
+img {
+  margin-top: 100px;
+}
+
+table {
+  color: rgb(59, 12, 59);
+  font-size: small;
+  margin: 5px;
+  padding: auto;
+  border-style: solid;
+  border-width: 5px;
+}
+
+h1 {
+  line-height: initial;
+  border: rgb(19, 4, 4);
+  padding: auto;
+}
+
+.lado-esquerdo {
+  width: 40%;
+  height: 20px;
+  display: inline-block;
+  text-align: left;
+}
+
+.lado-direito {
+  display: inline-block;
+  text-align: right;
+  position: absolute;
+}
+
+footer {
+  padding: 20px;
+}
+
